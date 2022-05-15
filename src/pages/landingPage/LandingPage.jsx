@@ -53,7 +53,7 @@ const LandingPage = () => {
             >
               <a
                 target='_blank'
-                href='https://etherscan.io/address/0x87dcb78443F9814e300F5dafe8eAf46A34832742'
+                href='/'
                 className='sc-bqiRlB cKgmqo'
                 rel='noreferrer'
               >
